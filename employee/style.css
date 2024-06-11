@@ -1,0 +1,53 @@
+body{
+    background-image: url(./hr-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h2{
+    color: #f8f1f1;
+    background-color: #0f0f0f;
+    font-size: 40px;
+    text-align: center;
+}
+#employeeForm{ 
+    color: #f8f1f1; 
+    padding: 20px;
+    width: 390px;
+    border-radius:10px;
+    margin-left: 40%;
+}
+#employeeForm button{
+    padding: 11px 15px;
+    border: none;
+    background-color: rgb(235, 235, 231);
+    color: rgb(20, 20, 20);
+    border-radius: 10px;
+}
+#employeeForm button:hover{
+  transform: scale(1.05);
+}
+#employeeForm input{
+    color: #f8f1f1;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom:2px solid rgb(240, 238, 238) ;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #111111;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+#employeeBody{
+    color: #f8f1f1;    
+}

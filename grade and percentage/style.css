@@ -1,0 +1,38 @@
+.form{
+    background-color: #e7ebf1;
+    width: 500px;
+    padding: 50px;
+    border-radius: 10px;
+}
+table label{
+    border: 1px solid rgb(236, 39, 39);
+    background-color: #cccac9;
+    padding: 10px; 
+    color: black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+body{
+    background-color: beige;
+}
+table td{
+  padding: 15px;
+
+}
+table input{
+    background-color: #b6b6aa;
+    color: rgb(18, 19, 19);
+    border: 1px solid rgb(240, 8, 8);
+    border-radius: 5px;
+    margin-left: 30px;
+    padding: 10px;
+}
+table button{
+    width: 150px;
+    height: 40px;
+    color: rgb(34, 32, 32);
+    font-weight: 600;
+    background-color: #e4e3e2;
+    border: 1px solid rgb(221, 30, 30);
+    border-radius: 5px;   
+}
